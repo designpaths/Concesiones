@@ -485,15 +485,8 @@ body, #container-wrap { background:#ededed; }
 #item1330 {
 	width:44px !important;
 	height:44px !important;
-	left:507px !important;
+	left:485px !important;
 	top:638px !important;
-}
-
-#item1017 {
-	width:485px !important;
-	height:291px !important;
-	left:22px !important;
-	top:418px !important;
 }
 
 #item1711 {
@@ -525,5 +518,12 @@ body, #container-wrap { background:#ededed; }
 	width:750px !important;
 	height:440px !important;
 	top:748px !important;
+}
+
+#item1017 {
+	width:364px !important;
+	height:264px !important;
+	left:22px !important;
+	top:418px !important;
 }
 #in5footer,  #prefooter {display:none;}
